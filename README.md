@@ -1,6 +1,7 @@
-# iex_parser
+# iex_parser [2025-COMPATIBLE]
 
-Parser for IEX pcap DEEP (1.0) and TOPS (1.5, 1.6) files.
+Parser for IEX pcap DEEP (1.0) and TOPS (1.5, 1.6) files. 
+Forked to update to 2025 specifications. 
 
 ## Overview
 
