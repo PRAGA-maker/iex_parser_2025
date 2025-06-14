@@ -1,6 +1,6 @@
-##WHAT I DID: Forked to update to 2025 specifications. 
+# WHAT I DID: Forked to update to 2025 specifications. 
 
-#iex_parser [2025-COMPATIBLE]
+# iex_parser [2025-COMPATIBLE]
 
 Parser for IEX pcap DEEP (1.0) and TOPS (1.5, 1.6) files. 
 Rest is mr blackburns code type shi.
